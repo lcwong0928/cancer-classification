@@ -16,5 +16,5 @@ mechanisms of gene regulation in cancer cells and set the stage better for futur
 
 ## Links
 
-[Report](https://github.com/lcwong0928/covid-diagnosis/blob/main/results/report.pdf) \
-[Presentation](https://github.com/lcwong0928/covid-diagnosis/blob/main/results/presentation.pdf)
+[Report](https://github.com/lcwong0928/cancer-classification/blob/main/results/report.pdf) \
+[Presentation](https://github.com/lcwong0928/cancer-classification/blob/main/results/presentation.pdf)
